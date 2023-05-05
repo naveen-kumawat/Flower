@@ -1,41 +1,21 @@
 # Flower
 This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
 
-Table of Contents
-Introduction
-HTML
-SCSS
-JS
-Contributing
-License
-Introduction
-HTML, SCSS, and JS are three essential technologies for creating modern and interactive web pages. HTML is the markup language used for creating the structure of a web page, while SCSS is a preprocessor language that extends CSS and provides more advanced features for styling. JS is the programming language used for creating dynamic behavior and interactivity on a web page.
+### Downlode Source code from github
+Using This : 
 
-This repository provides examples and tutorials for using these technologies together to create modern and dynamic web pages.
+```
+$ git clone https://github.com/naveen-kumawat/Flower.git
+```
 
-HTML
-The html directory contains examples and tutorials for using HTML to create the structure of a web page. This includes topics such as:
+### Downlode Ruby 
+Downlode Ruby for the SCSS
 
-Basic HTML syntax
-Semantic HTML
-HTML forms
-Accessibility in HTML
-SCSS
-The scss directory contains examples and tutorials for using SCSS to style a web page. This includes topics such as:
+###Map SCSS file with HTML
 
-Basic SCSS syntax
-Variables and mixins
-Nesting and inheritance
-Advanced SCSS features
-JS
-The js directory contains examples and tutorials for using JS to create dynamic behavior and interactivity on a web page. This includes topics such as:
+```
+$ sass --watch style.scss:style.css
+```
+Also map js file with html file 
 
-Basic JS syntax
-DOM manipulation
-Event handling
-AJAX and API integration
-Contributing
-Contributions to this repository are welcome! If you have an example or tutorial that you would like to contribute, please open a pull request.
-
-License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+Project run successfully
