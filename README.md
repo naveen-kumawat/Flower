@@ -11,7 +11,7 @@ $ git clone https://github.com/naveen-kumawat/Flower.git
 ### Downlode Ruby 
 Downlode Ruby for the SCSS
 
-###Map SCSS file with HTML
+### Map SCSS file with HTML
 
 ```
 $ sass --watch style.scss:style.css
