@@ -14,7 +14,7 @@ Downlode Ruby for the SCSS
 ### Map SCSS file with HTML
 
 ```
-$ sass --watch style.scss:style.css
+Follow Youtube Video For map scss file with html
 ```
 Also map js file with html file 
 
