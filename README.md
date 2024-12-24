@@ -14,8 +14,8 @@ Welcome to the **Interactive Animated Periodic Table** project! This is a beauti
 
 ## 🖥️ Preview  
 
-🌐 **Live Demo:** [Interactive Periodic Table](#) *(https://github.com/user-attachments/assets/921fd213-467e-4365-a2f0-091c6b6e2477)
-*  
+🌐 **Live Demo:** [Interactive Periodic Table](![table](https://github.com/user-attachments/assets/efa06845-751a-4071-966f-be1e1d10af34)
+)   
 
 ### Screenshot  
 ![Interactive Periodic Table Preview](#) *(Add a screenshot of your project here)*  
