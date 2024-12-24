@@ -1,30 +1,31 @@
-# Interactive Animated Periodic Table 🌟  
+# Flower
+This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
 
-Welcome to the **Interactive Animated Periodic Table** project! This is a beautifully designed periodic table built using pure **HTML**, **CSS**, and **JavaScript**. It’s fully interactive, visually appealing, and a perfect blend of coding and science.  
+### Downlode Source code from github
+Using This : 
 
----
+```
+$ git clone https://github.com/naveen-kumawat/Flower.git
+```
 
-## 🚀 Features  
-- **Interactive Design:** Hover and click effects to explore elements.  
-- **Beautiful Animations:** Smooth transitions and modern visuals.  
-- **Lightweight:** No libraries or frameworks required – just plain HTML, CSS, and JavaScript.  
-- **Responsive Layout:** Works seamlessly on desktop and mobile devices.  
+### Downlode Ruby 
+Downlode Ruby for the SCSS
+```
+npm i -g scss
+```
 
----
+### Map SCSS file with HTML
 
-## 🖥️ Preview  
+```
+Follow Youtube Video For map scss file with html
+```
+<a href="https://www.youtube.com/@search4code?sub_confirmation=1">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
+</a>
 
-🌐 **Live Demo:** [Interactive Periodic Table](![table](https://github.com/user-attachments/assets/efa06845-751a-4071-966f-be1e1d10af34)
-)   
+Also map js file with html file 
 
-### Screenshot  
-![Interactive Periodic Table Preview](#) *(Add a screenshot of your project here)*  
+Project run successfully
 
----
 
-## 📂 Project Structure  
-```plaintext
-├── index.html       # HTML file with the structure of the periodic table  
-├── style.css        # CSS file for animations and styling  
-├── script.js        # JavaScript file for interactivity  
-└── assets/          # (Optional) Folder for images or additional assets
+![flower](https://user-images.githubusercontent.com/63699592/236506187-282f2dc3-cbcb-447c-81f4-63b127233ab9.png)
